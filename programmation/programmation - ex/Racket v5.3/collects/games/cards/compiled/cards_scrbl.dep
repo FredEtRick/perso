@@ -1,0 +1,1 @@
+("5.3" ("b3dd1c6a3a256e2b5ead031a504ff5bf6f50a15b" . "f2c8a5ae5854f2c8807c2602c716ed68c06bef77") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"games" #"cards.rkt") (collects #"scheme" #"gui" #"base.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

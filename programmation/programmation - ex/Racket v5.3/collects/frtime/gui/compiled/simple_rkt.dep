@@ -1,0 +1,1 @@
+("5.3" ("839dcd00a703f20a9173d68edb2f9915a5f86fc4" . "0db5a2adcb6d717e6f91470d87e853949a5167e4") (collects #"mred" #"main.rkt") (collects #"frtime" #"gui" #"fred.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"main.rkt"))

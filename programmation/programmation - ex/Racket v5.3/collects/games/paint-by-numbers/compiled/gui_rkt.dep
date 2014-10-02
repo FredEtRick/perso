@@ -1,0 +1,1 @@
+("5.3" ("1a6faf772c59945e735a618be59c10471dbccb96" . "a87430c27a8e27779352cb2bb6a1316273db94ac") (collects #"mred" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"framework" #"main.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"class.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("b143c853ba4135085ab7f2e720d668e7272ec993" . "f00fff1ed477487992437548f19e5bd6193b012e") (collects #"setup" #"path-relativize.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"setup" #"dirs.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

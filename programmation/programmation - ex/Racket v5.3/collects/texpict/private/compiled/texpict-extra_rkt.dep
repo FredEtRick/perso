@@ -1,0 +1,1 @@
+("5.3" ("3be1ece39347d70eb14d13954bd9595cde6b5252" . "0366174242d8d53e72a10a599d88cb043b9a3f6e") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"etc.rkt") (collects #"texpict" #"private" #"common-sig.rkt") (collects #"racket" #"unit" #"lang.rkt") (collects #"texpict" #"private" #"texpict-sig.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

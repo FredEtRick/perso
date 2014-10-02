@@ -1,0 +1,1 @@
+("5.3" ("d3ede9619009745af29c5e10fc23c4a4b3449de8" . "2cd36f0bf18386ebfaccd1410d06852b71ab8393") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scriblib" #"figure.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"contract.rkt") (collects #"scribble" #"decode.rkt") (collects #"scribble" #"core.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

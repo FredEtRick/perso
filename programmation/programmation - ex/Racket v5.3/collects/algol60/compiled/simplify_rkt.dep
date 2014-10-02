@@ -1,0 +1,1 @@
+("5.3" ("2dafe73832526d03b15b8b214a6bd97a5185df47" . "bf908574121233cdd38cc2d90647a502d437ca92") (collects #"algol60" #"prims.rkt") (collects #"mzlib" #"match.rkt") (collects #"algol60" #"parse.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

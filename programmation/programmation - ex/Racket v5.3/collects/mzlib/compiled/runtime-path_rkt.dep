@@ -1,0 +1,1 @@
+("5.3" ("29a47d23d5813d5a08c9d7a30fdadbb4232bd023" . "f71ecb6818c43744646eb2380ae32f2b4581e97b") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"mzlib" #"private" #"runtime-path-table.rkt") (collects #"setup" #"dirs.rkt") (collects #"mzlib" #"private" #"this-expression-source-directory.rkt"))

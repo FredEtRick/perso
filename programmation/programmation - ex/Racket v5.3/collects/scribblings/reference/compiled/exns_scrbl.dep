@@ -1,0 +1,1 @@
+("5.3" ("d62fefc38ea50c5c593aeeb1d4cb4f98978ea3a4" . "46a8254dfa16845ec0e7701b20de5bf8c9ef7d5e") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribble" #"bnf.rkt") (collects #"scribble" #"doclang.rkt") (collects #"racket" #"fixnum.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

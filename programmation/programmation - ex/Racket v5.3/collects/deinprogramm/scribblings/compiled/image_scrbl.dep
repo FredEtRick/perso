@@ -1,0 +1,1 @@
+("5.3" ("9acbee91becbe79bf1ab2c4f35f2645c2de2b2f9" . "d6edb17d86be591d7b2e5ccc65680f88d7f78ebb") (collects #"deinprogramm" #"scribblings" #"shared.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"scheme" #"main.rkt") (collects #"teachpack" #"deinprogramm" #"image.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

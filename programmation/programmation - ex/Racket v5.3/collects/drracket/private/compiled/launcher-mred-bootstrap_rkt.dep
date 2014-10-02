@@ -1,0 +1,1 @@
+("5.3" ("2ab94a077f062fcf2ed7d7162a6049445259d738" . "666970e2f2e73e697f643b5e6641ec1633e3d46b") (collects #"drracket" #"private" #"launcher-bootstrap.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

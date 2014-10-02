@@ -1,0 +1,1 @@
+("5.3" ("67b99c11cc18b52f8efc64370e59cf0ef7f0de4a" . "8779b808d534028c212701854f4c543279143f95") (collects #"texpict" #"flash.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

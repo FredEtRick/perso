@@ -1,0 +1,1 @@
+("5.3" ("b6f13cbc5de38c6ec3915092e62a3e1b2ebf698d" . "6032dffac2d50a0c254d1c56db2e41dbe2816e17") (collects #"racket" #"base.rkt") (collects #"racket" #"place" #"distributed.rkt") (collects #"racket" #"tcp.rkt") (collects #"racket" #"place" #"private" #"coercion.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("403b84771740a5b946eb18a64f1638868a703ab7" . "06b04bb634a507611b4559aa9b81bb71fcd0df1f") (collects #"slideshow" #"pict.rkt") (collects #"racket" #"main.rkt") (collects #"slideshow" #"base.rkt"))

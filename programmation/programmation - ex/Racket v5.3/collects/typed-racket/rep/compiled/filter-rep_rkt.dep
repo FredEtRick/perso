@@ -1,0 +1,1 @@
+("5.3" ("bdb5200568f4ba0eebac8a3680b0df4cc34a78ea" . "7bd85942c49c527c0dc18ae0f137f6d68f224ed7") (collects #"typed-racket" #"rep" #"rep-utils.rkt") (collects #"racket" #"base.rkt") (collects #"typed-racket" #"rep" #"free-variance.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

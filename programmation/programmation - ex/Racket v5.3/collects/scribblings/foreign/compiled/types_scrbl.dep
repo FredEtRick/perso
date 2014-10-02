@@ -1,0 +1,1 @@
+("5.3" ("325c34d2fff0bb3a678c6fa39a14cf5bd8c115ce" . "ce54c368022e8feef173e48afadc043e623095be") (collects #"racket" #"base.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"foreign" #"utils.rkt") (collects #"scribble" #"racket.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"scheme" #"match.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

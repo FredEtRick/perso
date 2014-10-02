@@ -1,0 +1,1 @@
+("5.3" ("7e583248465e918ddf1b0b05e29e13cd9eb229a3" . "f0e3f9cd315550db28fe3c567e2de40de26cdaa1") (collects #"macro-debugger" #"util" #"stxobj.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"macro-debugger" #"syntax-browser" #"interfaces.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

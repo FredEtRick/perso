@@ -1,0 +1,1 @@
+("5.3" ("0583dcf5d9215c67cd2d09f5f74dc3d7d4e1c605" . "a4d39e3a2a7f34b9e39bafb1f707f806efcf67a9") (collects #"htdp" #"matrix-sig.rkt") (collects #"htdp" #"matrix-unit.rkt") (collects #"scheme" #"main.rkt") (collects #"htdp" #"matrix-render-sig.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

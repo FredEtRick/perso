@@ -1,0 +1,1 @@
+("5.3" ("e61196b599184a4d81c7142759825a6e8af85a85" . "b6fbd5bd3283d5203371d501e42e7d11bd029f39") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"draw" #"private" #"libs.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

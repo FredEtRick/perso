@@ -1,0 +1,1 @@
+("5.3" ("f4f1dc1b35a8bb284d2de9cbe10d4a92cceb2bda" . "1c1ceb12575bc02e9746eca84d76746747784411") (collects #"racket" #"base.rkt") (collects #"net" #"smtp-sig.rkt") (collects #"net" #"smtp.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

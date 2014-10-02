@@ -1,0 +1,1 @@
+("5.3" ("6764d749a65041757c22d6badad844c005fd0935" . "02e0ae16e70e84086ef2d791b8427d81a40a86ce") (collects #"unstable" #"struct.rkt") (collects #"racket" #"private" #"serialize-structs.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"syntax" #"modcollapse.rkt"))

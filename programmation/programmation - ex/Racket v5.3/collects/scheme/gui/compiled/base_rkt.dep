@@ -1,0 +1,1 @@
+("5.3" ("921c918704d410c8b14aad6d1bafe935d6508e0c" . "d33344b99e2afc9aab9a2707d6ce66a15e950ce5") (collects #"mred" #"main.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

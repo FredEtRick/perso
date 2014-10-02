@@ -1,0 +1,1 @@
+("5.3" ("4b004a04e4ecfdde9a2f5894625d950e659f5cc5" . "00dd50be3b59eb5474d6f5f0906681b5219c24e7") (collects #"scribble" #"doclang.rkt") (collects #"scheme" #"file.rkt") (collects #"file" #"gunzip.rkt") (collects #"file" #"zip.rkt") (collects #"file" #"gzip.rkt") (collects #"file" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("306d166abbb6ed32c939861a2010056c3a7838f8" . "6e17edb34c5c97ca961cfbc41b91cf795327c5a9") (collects #"racket" #"contract.rkt") (collects #"web-server" #"lang" #"serial-lambda.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"serialize.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

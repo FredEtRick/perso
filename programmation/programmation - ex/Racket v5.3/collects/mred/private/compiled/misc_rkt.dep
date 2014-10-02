@@ -1,0 +1,1 @@
+("5.3" ("cf11a59e1d00f9db9192aeb9d2e85212f1e39bd7" . "2626c63bbf2d6cc1bac1b60146eda5ca42551d8c") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"file.rkt") (collects #"mzlib" #"process.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"racket" #"snip" #"private" #"prefs.rkt") (collects #"mred" #"private" #"kernel.rkt"))

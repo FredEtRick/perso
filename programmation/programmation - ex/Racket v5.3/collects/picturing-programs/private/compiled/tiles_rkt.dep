@@ -1,0 +1,1 @@
+("5.3" ("578a3a07a2ecd5f893025b9e745b2873049749e6" . "7fa85e130e97e9284e0211664aaa88328e6348a0") (collects #"racket" #"base.rkt") (collects #"lang" #"error.rkt") (collects #"2htdp" #"image.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

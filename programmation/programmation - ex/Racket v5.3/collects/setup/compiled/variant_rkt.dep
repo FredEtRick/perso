@@ -1,0 +1,1 @@
+("5.3" ("9bc93eaa02974c7d86ec2b6d48b0985604f71df2" . "ed469dbae7d1162146786a0334261867d7bff608") (collects #"scheme" #"promise.rkt") (collects #"scheme" #"base.rkt") (collects #"config" #"main.rkt") (collects #"setup" #"dirs.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

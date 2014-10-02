@@ -1,0 +1,1 @@
+("5.3" ("5c7b952e1fcbac0600b6a10cb4cbbd3410433e5b" . "346e12bedb8af3fd7883121e79221390823347ae") (collects #"racket" #"base.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"list.rkt") (collects #"mzscheme" #"main.rkt") (collects #"texpict" #"mrpict.rkt") (collects #"racket" #"draw.rkt") (collects #"mzlib" #"unit.rkt"))

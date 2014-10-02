@@ -1,0 +1,1 @@
+("5.3" ("03f62f813646bd364228d2fa2b453dfb837027bf" . "be9e265cf58c2514fd7a3a1092f36834adfa6851") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"rnrs" #"main.rkt") (collects #"r6rs" #"main.rkt") (collects #"rnrs" #"mutable-pairs-6.rkt") (collects #"r6rs" #"lang" #"reader.rkt"))

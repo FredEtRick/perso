@@ -1,0 +1,1 @@
+("5.3" ("a6d2a2a1deb76a8f620e0b3bf8c9b6cef9a2b6fe" . "6ef38be61a15809888065ad6be4b9a69b33d516c") (collects #"slideshow" #"slideshow.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"slideshow" #"start-param.rkt") (collects #"planet" #"config.rkt"))

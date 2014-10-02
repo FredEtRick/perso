@@ -1,0 +1,1 @@
+("5.3" ("0ea68726f88f2bc03a73a029c2bdf7af96a4d32c" . "f990065d373115508f6531540cd4d48dff91fe58") (collects #"scribble" #"doclang.rkt") (collects #"net" #"sendmail-unit.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"net" #"sendmail-sig.rkt") (collects #"net" #"sendmail.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))
