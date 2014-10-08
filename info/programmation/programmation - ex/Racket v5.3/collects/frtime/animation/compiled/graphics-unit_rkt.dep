@@ -1,0 +1,1 @@
+("5.3" ("77706a20bd0794284cd651a3be1d235827bda67f" . "08b4489e39625aa4d6fb04aedae6decde48b24c3") (collects #"mred" #"mred-sig.rkt") (collects #"scheme" #"unit.rkt") (collects #"frtime" #"animation" #"graphics-posn-less-unit.rkt") (collects #"scheme" #"main.rkt") (collects #"frtime" #"animation" #"graphics-sig.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("8f22b87a98d2cb12e07a3b8392dc86b3bc9b4fb9" . "9080904e98b01422b739a15fa9f2e3a2abac8100") (collects #"net" #"qp.rkt") (collects #"racket" #"base.rkt") (collects #"net" #"mime-util.rkt") (collects #"net" #"base64.rkt") (collects #"net" #"head.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("3a3d46c81e5054edb4a30e0a885ca17b8896d151" . "f36f0e50c414d407e52d77d5a7c2ae07881313f0") (collects #"syntax-color" #"scheme-lexer.rkt") (collects #"scheme" #"base.rkt") (collects #"racket" #"port.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

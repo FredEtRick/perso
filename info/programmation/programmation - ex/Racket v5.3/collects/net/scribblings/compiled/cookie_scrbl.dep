@@ -1,0 +1,1 @@
+("5.3" ("83cc5bd8e3bc5d3fecc4d28d8405db7b11a4ab01" . "6c3c93a047ef980ab4908595823392ab115cd31b") (collects #"net" #"cookie.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"cookie-unit.rkt") (collects #"scribble" #"eval.rkt") (collects #"net" #"cookie-sig.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

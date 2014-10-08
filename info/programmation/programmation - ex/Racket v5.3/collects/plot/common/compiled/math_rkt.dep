@@ -1,0 +1,1 @@
+("5.3" ("e3917d7e59624262db4cd747d767ba15f81ef4b7" . "561358b004bb6f5b29b3c22ac98749f2aa0ab42c") (collects #"racket" #"contract.rkt") (collects #"unstable" #"latent-contract" #"defthing.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"unsafe" #"ops.rkt") (collects #"unstable" #"flonum.rkt") (collects #"racket" #"lang" #"reader.rkt"))

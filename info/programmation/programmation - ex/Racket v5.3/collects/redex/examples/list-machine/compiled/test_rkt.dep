@@ -1,0 +1,1 @@
+("5.3" ("608c3f288e8e58bdd178c76da1f96a727cf63b1a" . "2d422c364c51a205ebad57c888cdc39131519aab") (collects #"redex" #"main.rkt") (collects #"redex" #"examples" #"list-machine" #"list-machine.rkt") (collects #"racket" #"main.rkt") (collects #"redex" #"examples" #"list-machine" #"list-machine-typing.rkt") (collects #"racket" #"lang" #"reader.rkt"))

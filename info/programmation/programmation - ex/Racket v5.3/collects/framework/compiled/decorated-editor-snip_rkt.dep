@@ -1,0 +1,1 @@
+("5.3" ("bf59d09342afa39094b5677a3f354e949115836c" . "6fa2da20e6fa7d0a9b2800fe93279be986ebaf8c") (collects #"racket" #"base.rkt") (collects #"framework" #"private" #"decorated-editor-snip.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

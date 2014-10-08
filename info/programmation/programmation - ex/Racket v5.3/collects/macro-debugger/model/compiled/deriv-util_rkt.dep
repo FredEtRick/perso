@@ -1,0 +1,1 @@
+("5.3" ("e970822e9867e1969f790044b2c1ed333bad238d" . "3bf153a63c0b298a66457b35683afa5494ec414d") (collects #"unstable" #"struct.rkt") (collects #"racket" #"base.rkt") (collects #"macro-debugger" #"model" #"deriv.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

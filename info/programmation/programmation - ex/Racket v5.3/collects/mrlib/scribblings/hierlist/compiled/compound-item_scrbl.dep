@@ -1,0 +1,1 @@
+("5.3" ("59a267659d2619fea2cba89941141fdb5263cc9d" . "a46630f6f98f0fa6eb9f88be431ec7811a8f69dd") (collects #"mrlib" #"hierlist.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("387d8cc030bffd8db6e09129dbd2bd11d0f88708" . "f7576c472b45a9390502720d4a26e71cf930395b") (collects #"racket" #"base.rkt") (collects #"srfi" #"14" #"char-set.rkt") (collects #"racket" #"serialize.rkt") (collects #"srfi" #"13" #"string.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("10bbd997d7e7b5993959edeebeb066b794c70e1f" . "56d5eb267623a42b5cf879ef9646e4abe626b61a") (collects #"scheme" #"base.rkt") (collects #"r6rs" #"private" #"inline-rules.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

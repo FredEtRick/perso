@@ -1,0 +1,1 @@
+("5.3" ("1ce76330ada059ad4e8ff35bb96d8857bb822c7a" . "df6db946ea88d5c31aaee9d2041e99cd298c1d5b") (collects #"slideshow" #"slideshow.rkt") (collects #"mzlib" #"list.rkt") (collects #"syntax" #"to-string.rkt") (collects #"texpict" #"code.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzlib" #"unit.rkt"))

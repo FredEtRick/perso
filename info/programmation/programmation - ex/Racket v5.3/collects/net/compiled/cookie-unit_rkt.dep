@@ -1,0 +1,1 @@
+("5.3" ("0d1021799a09d153409c4618aff3af8d7997daf0" . "b9c66572b95d6b2dd61b253a292ded8506531d2c") (collects #"racket" #"base.rkt") (collects #"net" #"cookie.rkt") (collects #"net" #"cookie-sig.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

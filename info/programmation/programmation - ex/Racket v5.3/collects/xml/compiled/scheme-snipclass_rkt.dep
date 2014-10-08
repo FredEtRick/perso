@@ -1,0 +1,1 @@
+("5.3" ("d31492f9678626ffe91475648e8483ee7714d7c5" . "3d5bda43521f9aeca291330508d08edf01d5606c") (collects #"mred" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"mzlib" #"class.rkt") (collects #"stepper" #"private" #"xml-snip-helpers.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

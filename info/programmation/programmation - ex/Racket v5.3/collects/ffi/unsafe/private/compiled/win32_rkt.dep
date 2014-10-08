@@ -1,0 +1,1 @@
+("5.3" ("f9b206862821b895785e8bb766dd2f102cb77eda" . "8c060778f2b42dfbac1c99caf441c89926a99132") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"racket" #"base.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"ffi" #"winapi.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

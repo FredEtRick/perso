@@ -1,0 +1,1 @@
+("5.3" ("38611a1b9bf6f5b6f41234d050f446d7d1b2d0f7" . "3a575a52a4ba93cfb74e33fad9cd471280dd73f9") (collects #"racket" #"base.rkt") (collects #"slideshow" #"pict.rkt") (collects #"future-visualizer" #"private" #"constants.rkt") (collects #"future-visualizer" #"private" #"display.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

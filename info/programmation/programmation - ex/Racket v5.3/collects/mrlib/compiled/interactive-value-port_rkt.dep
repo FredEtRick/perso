@@ -1,0 +1,1 @@
+("5.3" ("2586e6bf496aff97850d5ebcdee5559da762fef8" . "be9670f9d5d455e90e618d2f75cae3b7b2b86758") (collects #"mrlib" #"syntax-browser.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"pretty.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

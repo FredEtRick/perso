@@ -1,0 +1,1 @@
+("5.3" ("dc43df599d6cfcae3e246f2962e5a195d196eb07" . "50bf1f64968711d31ec34b22c8d20107834f249a") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"dynext" #"link-sig.rkt") (collects #"dynext" #"link-unit.rkt") (collects #"mzlib" #"unit.rkt"))

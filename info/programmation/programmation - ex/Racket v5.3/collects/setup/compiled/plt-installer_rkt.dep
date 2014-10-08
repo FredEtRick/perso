@@ -1,0 +1,1 @@
+("5.3" ("bac74d5b8a753481f5b5cee11fc77a18aa42734b" . "0de7f39754dcd37cb26668ddebb102641f165a04") (collects #"mred" #"mred-unit.rkt") (collects #"mred" #"mred-sig.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"setup" #"plt-installer-sig.rkt") (collects #"setup" #"plt-installer-unit.rkt") (collects #"mzlib" #"unit.rkt"))

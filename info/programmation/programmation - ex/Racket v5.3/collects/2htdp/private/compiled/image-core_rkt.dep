@@ -1,0 +1,1 @@
+("5.3" ("f3cdb3d50480290ade17f61806539570c1b475cd" . "d3a6a38cdd61ae0a4755f38b51c2cd98f5ec5b51") (collects #"racket" #"base.rkt") (collects #"mrlib" #"image-core.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3" ("8e849252b3a3c748cbf2d023a43cba53b440faa9" . "19bc192620abddd1c39f696443a9bb1d03f4f4d5") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"image-core.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

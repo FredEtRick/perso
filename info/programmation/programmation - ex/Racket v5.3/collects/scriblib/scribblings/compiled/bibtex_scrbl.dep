@@ -1,0 +1,1 @@
+("5.3" ("9a7e19a1a2625f395794e84323fdcce3ca3af6f3" . "22df46e9a64ed616ccd140496d78d6f31854be71") (collects #"racket" #"contract.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"racket" #"base.rkt") (collects #"scriblib" #"autobib.rkt") (collects #"scriblib" #"bibtex.rkt") (collects #"scribble" #"struct.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

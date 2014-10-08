@@ -1,0 +1,1 @@
+("5.3" ("b33ef6bc1b18d5d2ecc729cb8c756eef9d19fab4" . "1ea66d6273612c27892e80216b2c4aca481703d7") (collects #"htdp" #"docs.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

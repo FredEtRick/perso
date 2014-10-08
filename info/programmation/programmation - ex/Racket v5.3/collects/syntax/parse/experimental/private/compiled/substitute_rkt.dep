@@ -1,0 +1,1 @@
+("5.3" ("ff82ccd6651156a9952c779c753e00040e362837" . "0bedb14cf2f2a399b234b9cc093ed43063b19d9e") (collects #"racket" #"private" #"stx.rkt") (collects #"racket" #"base.rkt") (collects #"syntax" #"parse" #"private" #"minimatch.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

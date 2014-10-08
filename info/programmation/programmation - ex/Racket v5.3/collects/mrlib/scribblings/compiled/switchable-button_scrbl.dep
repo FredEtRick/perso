@@ -1,0 +1,1 @@
+("5.3" ("8a532a7e5ea60627c348295040d9356b43a11c1d" . "a58da61fee4474e302021a82f89c217549b0965e") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"mrlib" #"switchable-button.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

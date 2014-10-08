@@ -1,0 +1,1 @@
+("5.3" ("89fc916955df16082dd3ca6cbf70f55e607f80c7" . "07e939069488a940c2dbb29b37f707cab826b65f") (collects #"racket" #"base.rkt") (collects #"setup" #"dirs.rkt") (collects #"setup" #"variant.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

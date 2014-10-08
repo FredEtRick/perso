@@ -1,0 +1,1 @@
+("5.3" ("7fc41c2909294ea70fbd0bc3309161926052341c" . "45ac2a6b6e09892730d0e41b8495b4d3b5fad019") (collects #"racket" #"base.rkt") (collects #"racket" #"provide-transform.rkt") (collects #"syntax" #"private" #"modcollapse-noctc.rkt") (collects #"racket" #"require-transform.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

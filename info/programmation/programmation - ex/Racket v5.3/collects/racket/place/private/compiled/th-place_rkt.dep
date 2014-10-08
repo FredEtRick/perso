@@ -1,0 +1,1 @@
+("5.3" ("405fdfe50a29f61e3cdfca4dd1dea19a016bdc24" . "52ac08cb1bbefadb1965311dd8aa6c357b5088cf") (collects #"racket" #"base.rkt") (collects #"racket" #"vector.rkt") (collects #"racket" #"fixnum.rkt") (collects #"racket" #"flonum.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))
