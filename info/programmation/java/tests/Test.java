@@ -10,8 +10,17 @@ public class Test
 		double chars = 'a' + 'b';
 		byte chaar = 'e';
 		long hexa = 0xff48e6948acbL;
-		long binaire = 0b011101101101011011110101110L;
 		System.out.println(deutiere + " " + precis + " " + entiers + " " + chars + " " + chaar + " ");
-		System.out.println(hexa + " " + binaire);
+		System.out.println(hexa);
+		Scanner entree = new Scanner(System.in);
+		System.out.println("Entrez un entier");
+		int entier = entree.nextInt();
+		System.out.println(entier);
+		System.out.println("Entrez un réel");
+		double reel = entree.nextDouble();
+		System.out.println(reel);
+		System.out.println("Entrez du texte");
+		String texte = entree.nextLine();
+		System.out.println(texte);
 	}
 }
