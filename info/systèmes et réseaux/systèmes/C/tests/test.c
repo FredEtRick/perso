@@ -1,18 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-double carre(double a) // fonction calculant le carré
-{
-	return a*a;
-}
-/*fonction pas très utile
-car remplaçable
-par la bibliothèque math.c*/
-
 int main (int argc, char *argv[])
 {
-	printf("&é'àçèàç\"é&(\n");
-	printf("%f\n", carre(3.5));
+	printf("\t\\tprintf\\n\n");
+	int è = 4;
+	printf("%d\n", è);
+	short nombre = 33000;
+	printf("%d\n", nombre);
+	nombre = -100;
+	printf("%d\n", nombre);
 	
 	return 0;
 }
