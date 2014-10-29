@@ -2,10 +2,9 @@ import java.util.Scanner;
 
 public class Temperatures
 {
-	static void main (String[] args)
+	public static void main (String[] args)
 	{
-		String C;
-		Boolean continuer;
+		String continuer;
 		Scanner entree = new Scanner (System.in);
 		double celsius, fahrenheit;
 		do
@@ -22,7 +21,6 @@ public class Temperatures
 			{
 				System.out.print("Combien de celsius ? ");
 				celsius = entree.nextDouble();
-				fahrenheit = 
 				System.out.println(celsius + "°C = " + (((9.d/5.d) * celsius) + 32) + "°F");
 			}
 			else if (choix.equals("FC"))
@@ -37,10 +35,9 @@ public class Temperatures
 			}
 			do
 			{
-				System.out.print("\"true\" pour continuer, \"false\" pour arrêter. ");
-				C = entree.nextLine();
-			} while (!(continuer.equals("true")) && !(continuer.equals("false")));
-			continuer = Boolean.parseBoolean(continuer);
-		} while (continuer);
+				System.out.print("\"continuer\" pour continuer, \"arrêter\" pour arrêter. ");
+				continuer = entree.nextLine();
+			} while (!(continuer.equals("continuer")) && !(continuer.equals("arrêter")));
+		} while (continuer.equals("continuer"));
 	}
 }
