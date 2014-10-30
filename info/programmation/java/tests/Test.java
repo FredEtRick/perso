@@ -4,9 +4,12 @@ public class Test
 {
 	public static void main (String[] args)
 	{
-		for (int i = 4, j = 7 ; i<j ; i+=2, j++)
+		int T[][] = new int[4][6];
+		for(int[] i : T)
 		{
-			System.out.println(i + " " + j);
+			for(int j : i)
+				System.out.print(j);
+			System.out.println();
 		}
 	}
 }
