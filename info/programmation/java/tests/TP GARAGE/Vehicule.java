@@ -13,10 +13,13 @@ public abstract class Vehicule implements Serializable
 
 	public Vehicule()
 	{
+		Garage.chargerGarages();
 		prix = 0.d;
-		nom = "inconnu";
+		Garage.incrementerNbVoitures();
+		nom = "voiture" + Garage.getNbVoitures();
 		options = new LinkedList<Option>();
 		nomMarque = Marque.RENO;
+		Garage.sauverGarages();
 	}
 
 /*	public Vehicule(double prix, String nom, List<Option> options, Marque nomMarque)
@@ -28,6 +31,8 @@ public abstract class Vehicule implements Serializable
 	}*/
 
 	public abstract String toString();
+	
+	// ajouter une option
 	public void addOption(Option opt)
 	{
 		ListIterator li = options.listIterator();
@@ -63,7 +68,7 @@ public abstract class Vehicule implements Serializable
 	}
 	public void setPrix(double prix)
 	{
-		if (prix < 0)
+		if (prix < 0) // par mesure de précaution, évitons les prix négatifs
 			this.prix = 0.d;
 		else
 			this.prix = prix;

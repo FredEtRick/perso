@@ -17,7 +17,7 @@ public class Garage implements Serializable
 	private List<Vehicule> listeVoitures = new LinkedList<Vehicule>();
 	private static List<Garage> listeGarages = new LinkedList<Garage>();
 	private static Integer nbGarages = new Integer(0);
-	private int nbVoitures = 0;
+	private static Integer nbVoitures = new Integer(0);
 	private final String nom;
 	private final String chemin;
 
@@ -39,6 +39,7 @@ restent inchangées et le fichier est créé.*/
 						  new FileOutputStream(garages)));
 				oos.writeObject(new Integer(0));
 				oos.writeObject(listeGarages);
+				oos.writeObject(new Integer(0));
 				oos.close();
 			}
 			catch (FileNotFoundException e)
@@ -60,6 +61,7 @@ restent inchangées et le fichier est créé.*/
 						  new FileInputStream(garages)));
 				nbGarages = (Integer) ois.readObject();
 				listeGarages = (LinkedList<Garage>) ois.readObject();
+				nbVoitures = (Integer) ois.readObject();
 				ois.close();
 			}
 			catch (FileNotFoundException e)
@@ -89,6 +91,7 @@ restent inchangées et le fichier est créé.*/
 						new File("Garages.txt"))));
 			oos.writeObject(nbGarages);
 			oos.writeObject(listeGarages);
+			oos.writeObject(nbVoitures);
 			oos.close();
 		}
 		catch (FileNotFoundException e)
@@ -149,6 +152,7 @@ Sinon, un message apparait prévenant que le garage n'a pas été trouvé.*/
 		garages.delete();
 		listeGarages = new LinkedList<Garage>();
 		nbGarages = new Integer(0);
+		nbVoitures = new Integer(0);
 	}
 
 // créé un nouveau garage.
@@ -195,7 +199,7 @@ Sinon, un message apparait prévenant que le garage n'a pas été trouvé.*/
 
 	public String toString()
 	{
-		String s = "***************\n*   ";
+		String s = "\n***************\n*   ";
 		s += nom;
 		s += "   *\n***************\n";
 		ListIterator li = listeVoitures.listIterator();
@@ -212,6 +216,16 @@ Sinon, un message apparait prévenant que le garage n'a pas été trouvé.*/
 	public List<Vehicule> getListeVoitures()
 	{
 		return listeVoitures;
+	}
+	
+	public static int getNbVoitures()
+	{
+		return nbVoitures;
+	}
+	
+	public static void incrementerNbVoitures()
+	{
+		nbVoitures++;
 	}
 
 // charge le listeVoitures du fichier du garage dans le listeVoitures du programme
@@ -305,12 +319,12 @@ Sinon, un message apparait prévenant que le garage n'a pas été trouvé.*/
 		}
 		if (!existe)
 		{
-			voit.setNom("voiture" + ++nbVoitures);
 			listeVoitures.add(voit);
 		}
 		sauverGarage();
 	}
 
+// liste les voitures garées dans le garage courant
 	public void listerVoitures()
 	{
 		chargerGarage();
