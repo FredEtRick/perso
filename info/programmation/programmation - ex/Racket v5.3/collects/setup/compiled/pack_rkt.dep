@@ -1,1 +1,0 @@
-("5.3" ("3b8515e5522307df779d5e4cd9a0e07ff157fb6c" . "e6122a41ca2474506042423e6a3d00a761bf2942") (collects #"scheme" #"system.rkt") (collects #"setup" #"getinfo.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"file.rkt") (collects #"net" #"base64.rkt") (collects #"file" #"gzip.rkt") (collects #"scheme" #"port.rkt"))

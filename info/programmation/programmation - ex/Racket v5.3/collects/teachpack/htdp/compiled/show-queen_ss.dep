@@ -1,1 +1,0 @@
-("5.3" ("1562145affaab8cae50ba72d0954d47071674b1a" . "610bb75b99ae7b3f5df1cd0ffccdb925e2e76025") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"htdp" #"show-queen.rkt"))

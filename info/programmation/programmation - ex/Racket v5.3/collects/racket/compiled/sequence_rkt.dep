@@ -1,1 +1,0 @@
-("5.3" ("64884ccdd0ff9f6a75aa59890e7247e760ddbdfb" . "5ad7913f947a35ccd33cc9dac39a3806d1f1594f") (collects #"racket" #"private" #"sequence.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"stream.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("c69c4dbf20968ae4d406b283100ef53abf9bd083" . "101008fbdb704ec9f647b8fb13e43e7213d6604f") (collects #"racket" #"base.rkt") (collects #"setup" #"xref.rkt") (collects #"racket" #"promise.rkt") (collects #"scribble" #"xref.rkt") (collects #"scribble" #"manual-struct.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("a699241f594df7aeef3ee81e650bfce895bae87b" . "e084bc65046e13abf964d52dc698857b131f7502") (collects #"drracket" #"private" #"drsig.rkt") (collects #"framework" #"main.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"unit" #"lang.rkt") (collects #"racket" #"class.rkt") (collects #"string-constants" #"main.rkt") (collects #"racket" #"unit" #"lang" #"reader.rkt"))

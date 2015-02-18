@@ -1,1 +1,0 @@
-("5.3" ("e65e0c07993e79c1e14a672a1c5cde32ee74b8e2" . "b38b295700ec9e012fef22e4cff321bd57f87b56") (collects #"srfi" #"42" #"generator-struct.scm") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

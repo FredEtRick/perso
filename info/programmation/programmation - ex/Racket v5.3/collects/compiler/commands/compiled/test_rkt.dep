@@ -1,1 +1,0 @@
-("5.3" ("138675ec23c233fe1e6a517a07151176adf0fdf5" . "3bed3c24240089627c0c0e23950596902d18436d") (collects #"racket" #"base.rkt") (collects #"racket" #"cmdline.rkt") (collects #"raco" #"command-name.rkt") (collects #"racket" #"path.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

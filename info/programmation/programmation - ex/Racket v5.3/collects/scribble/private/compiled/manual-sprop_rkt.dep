@@ -1,1 +1,0 @@
-("5.3" ("6824223808079f54515e355f0f92d93c1e06320f" . "2230a967b1a0cf58ac91b831695eb5da68c2373e") (collects #"scribble" #"latex-properties.rkt") (collects #"scheme" #"base.rkt") (collects #"scribble" #"private" #"on-demand.rkt") (collects #"scribble" #"html-properties.rkt") (collects #"setup" #"main-collects.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

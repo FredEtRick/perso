@@ -1,1 +1,0 @@
-("5.3" ("8682a2631072d2298df4bc5c7fa090eaddfaf13a" . "806c2c4bf516c8757bb7bde8d23941a2108d06b8") (collects #"racket" #"main.rkt") (collects #"scribblings" #"guide" #"literal.rkt") (collects #"reader" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("0d02c890c4ef3767642d4cd1f2efa53b5e8001c1" . "16b3bdc023414882db2075f6ea0101afae1c6490") (collects #"scheme" #"base.rkt") (collects #"scheme" #"list.rkt") (collects #"planet" #"config.rkt") (collects #"scheme" #"path.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

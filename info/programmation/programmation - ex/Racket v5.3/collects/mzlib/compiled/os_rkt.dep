@@ -1,1 +1,0 @@
-("5.3" ("752582f8ed0e71ffeb9f544cda050562c3f243fe" . "5d56300a0cde6784f00d1acd89c6f345f2fb2c08") (collects #"mzlib" #"etc.rkt") (collects #"ffi" #"cvector.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"ffi" #"winapi.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

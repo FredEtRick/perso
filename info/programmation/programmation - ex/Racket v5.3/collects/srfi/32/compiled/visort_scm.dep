@@ -1,1 +1,0 @@
-("5.3" ("a44d53761b0434ccf5efdadf8e117972df34915e" . "029fa0d232e656acc43eff9a90dc13ba48f3d995") (collects #"srfi" #"32" #"vector-util.scm") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("c06afa64170134bb72533af6d2bb4382bb1caa1c" . "ed1146d5ff84995709e635cc1c5594419790782f") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"file" #"md5.rkt") (collects #"web-server" #"stuffers" #"stuffer.rkt") (collects #"web-server" #"stuffers" #"store.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("1774dfca52c5fefe51a0269a00dc0090685c5e56" . "99fa2b818871a6da784830df0580f7f0d2ee8560") (collects #"srfi" #"26.rkt") (collects #"srfi" #"66.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"include.rkt") (collects #"srfi" #"60.rkt") (ext collects #"srfi" #"74" #"blob.scm"))

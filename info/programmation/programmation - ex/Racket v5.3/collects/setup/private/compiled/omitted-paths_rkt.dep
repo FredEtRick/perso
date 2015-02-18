@@ -1,1 +1,0 @@
-("5.3" ("d89cff944308ed4e513847044b4eacdf97514030" . "94225589e9fd76cd1d6ed4d46c7a3f5baa77e264") (collects #"setup" #"private" #"lib-roots.rkt") (collects #"setup" #"dirs.rkt") (collects #"scheme" #"promise.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"list.rkt") (collects #"scheme" #"path.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

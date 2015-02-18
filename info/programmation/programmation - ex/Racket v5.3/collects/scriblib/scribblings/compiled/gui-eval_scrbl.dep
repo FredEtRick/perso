@@ -1,1 +1,0 @@
-("5.3" ("9f599c1a72af4dce819c2cfd1a3234c1329eae67" . "129085205b17657891ff5c69c4c4463506670bb4") (collects #"scriblib" #"gui-eval.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scribble" #"eval.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("096f29ce8c693db57e8bac855d616dbf8b7629bc" . "c0c299f7bf086d055e8b4d0b22ddf5d24b31a407") (collects #"scribble" #"manual.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"contract.rkt") (collects #"embedded-gui" #"main.rkt") (collects #"scheme" #"gui" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

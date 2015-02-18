@@ -1,1 +1,0 @@
-("5.3" ("49d8c2e9d7ce4732d81bda7907ccf16256504f06" . "a6250d450aa4facc9f54a3f7176d2f337552f65f") (collects #"eopl" #"eopl.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

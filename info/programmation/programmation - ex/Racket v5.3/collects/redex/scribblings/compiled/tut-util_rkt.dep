@@ -1,1 +1,0 @@
-("5.3" ("02e79ca7d461fc8f53148a8c702fac96a0532419" . "ad2b47e1fbefc9f200512bdd6d207b40e157a416") (collects #"racket" #"base.rkt") (collects #"scriblib" #"autobib.rkt") (collects #"scribble" #"base.rkt") (collects #"scribble" #"core.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt") (collects #"at-exp" #"lang" #"reader.rkt"))

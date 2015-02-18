@@ -1,1 +1,0 @@
-("5.3" ("ab08232c71c4fbf985479ccbca597f499a33095d" . "b505bcaf068c7ee3eea76f967acd517ef89f92ed") (collects #"2htdp" #"private" #"timer.rkt") (collects #"scheme" #"gui.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt"))

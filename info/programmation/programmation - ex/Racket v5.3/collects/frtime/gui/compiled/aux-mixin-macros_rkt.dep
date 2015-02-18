@@ -1,1 +1,0 @@
-("5.3" ("616ee275f732b38d2a795e57a61b02deb2af60fc" . "b6fa5151f71c013ea3ac881ebdd6a8e39cd15021") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"gui" #"mixin-macros.rkt") (collects #"frtime" #"main.rkt"))

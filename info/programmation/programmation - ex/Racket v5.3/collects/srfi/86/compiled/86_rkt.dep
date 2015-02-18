@@ -1,1 +1,0 @@
-("5.3" ("20430ab525b7594aff2dbe07ffa23104f1754300" . "e488e04db85a1e8d93d56e3699492517f78c6dfd") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

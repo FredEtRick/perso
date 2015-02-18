@@ -1,1 +1,0 @@
-("5.3" ("f7ab192ff5707ed832ae86b096af19f4a0604d2f" . "bb76e76d4c9032beea160af27a03c3c034b6f01f") (collects #"racket" #"base.rkt") (collects #"file" #"convertible.rkt") (collects #"scribble" #"private" #"manual-sprop.rkt") (collects #"scribble" #"basic.rkt") (collects #"scribble" #"private" #"on-demand.rkt") (collects #"scribble" #"core.rkt") (collects #"scribble" #"search.rkt"))

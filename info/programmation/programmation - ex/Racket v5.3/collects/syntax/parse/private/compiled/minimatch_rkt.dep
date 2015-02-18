@@ -1,1 +1,0 @@
-("5.3" ("cb31cb99a18c8cd8d08342198f3a98a0caec3323" . "f726e106e7db1e610213095cfa1c04d45002873b") (collects #"unstable" #"struct.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"struct-info.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

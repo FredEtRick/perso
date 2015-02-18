@@ -1,1 +1,0 @@
-("5.3" ("c3c740a17756a24664d6844a7a474fa667697d4e" . "d76c9dcd4775f931ab4d9c413a81cff11759f114") (collects #"racket" #"contract.rkt") (collects #"data" #"interval-map.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"dict.rkt") (collects #"scribble" #"eval.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

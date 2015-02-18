@@ -1,1 +1,0 @@
-("5.3" ("3e18f16df8998c10e666cacc172a5c3fb2fba468" . "0a7c8b4e475754634477220ee2fde8585fa25b3e") (collects #"mred" #"main.rkt") (collects #"lang" #"prim.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"htdp" #"error.rkt"))

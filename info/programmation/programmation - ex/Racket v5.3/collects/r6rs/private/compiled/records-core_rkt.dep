@@ -1,1 +1,0 @@
-("5.3" ("ea44ce5d3b4f340872a785a1c085b60ff1fa09d5" . "1408a48ef2855f610c6449be43bc6f2dac6336dd") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"rnrs" #"base-6.rkt") (collects #"rnrs" #"lists-6.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"vector-types.rkt") (collects #"r6rs" #"lang" #"reader.rkt"))

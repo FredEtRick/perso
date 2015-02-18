@@ -1,1 +1,0 @@
-("5.3" ("6fcfb57da39de94c5b581ba3793a1b44092db8f9" . "078d9ede68ea42a72ccd1fec5c9d6af7e8be801c") (collects #"syntax" #"parse" #"private" #"litconv.rkt") (collects #"racket" #"base.rkt") (collects #"syntax" #"parse" #"private" #"lib.rkt") (collects #"syntax" #"parse" #"private" #"sc.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

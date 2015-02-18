@@ -1,1 +1,0 @@
-("5.3" ("2b1d7092f42ddef2528a5a50da5e21eaaaa57e94" . "547f520442002e28837c57f66d85fff4ded80623") (collects #"scheme" #"base.rkt") (collects #"scribble" #"private" #"provide-structs.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

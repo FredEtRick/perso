@@ -1,1 +1,0 @@
-("5.3" ("8b54eaa2d67f34bf10b5bfdbdbc2aab83c822d8e" . "914225ecd23ea1e6cd52a62e425e885fbf666ff5") (collects #"launcher" #"launcher.rkt") (collects #"scribble" #"bnf.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"racket" #"gui.rkt") (collects #"compiler" #"distribute.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

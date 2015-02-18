@@ -1,1 +1,0 @@
-("5.3" ("12141dbf8a5dd5f78e693321de444ff35014c0a7" . "abb3deb69a70d0e97d1b1494f33696f7eae79034") (collects #"racket" #"base.rkt") (collects #"racket" #"math.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("aabed8296bc69dab157f29e031f2bb0e94806d06" . "523a42d18ed25b6e38bc3f1b1bf83c3a7f14f1ec") (collects #"racket" #"base.rkt") (collects #"net" #"uri-codec-sig.rkt") (collects #"net" #"uri-codec.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

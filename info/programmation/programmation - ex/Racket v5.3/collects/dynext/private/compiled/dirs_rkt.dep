@@ -1,1 +1,0 @@
-("5.3" ("a8a3f1b9e18af949fc413ae247b56d94939c2738" . "4ca8d6c8665a860da7d943c558f92829028ae2cb") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"setup" #"dirs.rkt"))

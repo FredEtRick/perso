@@ -1,1 +1,0 @@
-("5.3" ("ca4011614a51fac14c58ae8ac333c44843743fc5" . "7e2a17fe633da65a960928fa23db2ceda70e0a8e") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"cache-image-snip.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("c0577512eb537514c25d048920db87d1f06e37f2" . "3fc1a11e47a0d76d42812dd05563d53c64dff0f6") (collects #"lang" #"prim.rkt") (collects #"mzlib" #"etc.rkt") (collects #"lang" #"htdp-langs-save-file-prefix.rkt") (collects #"racket" #"gui.rkt") (collects #"htdp" #"error.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))

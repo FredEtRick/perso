@@ -1,1 +1,0 @@
-("5.3" ("b003373259bf79a63e8b02e4384b8662f691b0eb" . "02bb8479e4946d5c420fe6448ba4f81ecc450f41") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"web-server" #"http.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"function.rkt") (collects #"web-server" #"private" #"xexpr.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

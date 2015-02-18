@@ -1,1 +1,0 @@
-("5.3" ("a58c3392e84aadea5e0ed405bf9376ad265fc908" . "c38bed8d8a66bde672d32b7e326267187238fe96") (collects #"teachpack" #"2htdp" #"scribblings" #"img-eval.rkt") (collects #"file" #"convertible.rkt") (collects #"mzlib" #"pconvert.rkt") (collects #"racket" #"main.rkt") (collects #"scribble" #"eval.rkt") (collects #"racket" #"sandbox.rkt") (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("54eb17dab77885af726532f860fa9767d0931a28" . "5895567842dbb60233aaf969fd1a9d673a8a84f9") (collects #"racket" #"future.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"base.rkt") (collects #"setup" #"option-sig.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

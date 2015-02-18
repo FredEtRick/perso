@@ -1,1 +1,0 @@
-("5.3" ("d43e1968fde1ec9555bfb5ab2442e248f8c3316f" . "456214b4b40992320326f5ec2fe0233f6a8452a4") (collects #"redex" #"private" #"matcher.rkt") (collects #"racket" #"base.rkt") (collects #"framework" #"main.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"pretty.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

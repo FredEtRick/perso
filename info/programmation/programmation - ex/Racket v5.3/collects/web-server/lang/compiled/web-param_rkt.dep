@@ -1,1 +1,0 @@
-("5.3" ("af357cf8ca1c411e2224662a46666a3dd671f7b4" . "8240f99d0e48885310e79271d06bc85bfd824e05") (collects #"racket" #"contract.rkt") (collects #"web-server" #"lang" #"serial-lambda.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("f58408d012ee864d3bc8212124135ec3daf3b89d" . "e2a1a2fae73796dab7c60e2f7b391dc7e5901b75") (collects #"racket" #"base.rkt") (collects #"compiler" #"cm-accomplice.rkt") (collects #"syntax" #"path-spec.rkt") (collects #"mzlib" #"private" #"increader.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

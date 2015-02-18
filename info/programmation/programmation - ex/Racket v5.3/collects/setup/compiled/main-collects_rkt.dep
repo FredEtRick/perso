@@ -1,1 +1,0 @@
-("5.3" ("2ec59c4e7b563c10f2664986964b861cee9a96b5" . "ea43187a8f6a8e892a3defe75e9ff52e104ffe8c") (collects #"racket" #"base.rkt") (collects #"setup" #"path-relativize.rkt") (collects #"setup" #"dirs.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

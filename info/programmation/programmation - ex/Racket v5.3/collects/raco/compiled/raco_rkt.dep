@@ -1,1 +1,0 @@
-("5.3" ("feefda430b1369719b4b4e5e9a850213261e8743" . "5d389ab9044a3cf2a8059af9c85087e23e0efee1") (collects #"scheme" #"base.rkt") (collects #"raco" #"all-tools.rkt") (collects #"raco" #"command-name.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

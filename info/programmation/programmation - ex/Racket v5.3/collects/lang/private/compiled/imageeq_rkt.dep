@@ -1,1 +1,0 @@
-("5.3" ("81cf2a3ab236f0e5e9720e7a1c625622be1ce7e5" . "e111680307af462efe5e1081b97105b5e4244b06") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"snip.rkt") (collects #"mrlib" #"cache-image-snip.rkt") (collects #"mrlib" #"image-core.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

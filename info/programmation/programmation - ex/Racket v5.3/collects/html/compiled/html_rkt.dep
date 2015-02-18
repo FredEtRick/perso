@@ -1,1 +1,0 @@
-("5.3" ("41b2e8c1c90af6ac8289de0df5a77be5d7d80283" . "b99ca7b784f2bd95d29752a21a49aec9640e0059") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"xml" #"main.rkt") (collects #"html" #"html-structs.rkt") (collects #"html" #"html-spec.rkt") (collects #"html" #"sgml-reader.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("8687b5e342081edcac8d5c78cd7e17a406288893" . "804d39328ed740b2d2977862c95de2ba7f43ce13") (collects #"games" #"pousse" #"board-size.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"games" #"pousse" #"board.rkt"))

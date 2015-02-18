@@ -1,1 +1,0 @@
-("5.3" ("c249d881e2b79d2641c3c76000e851276fa08b1f" . "1c675fe084ff158fdb463b0dd5263772d5f13ad4") (collects #"web-server" #"http.rkt") (collects #"net" #"url.rkt") (collects #"web-server" #"configuration" #"responders.rkt") (collects #"scribble" #"doclang.rkt") (collects #"web-server" #"scribblings" #"web-server.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

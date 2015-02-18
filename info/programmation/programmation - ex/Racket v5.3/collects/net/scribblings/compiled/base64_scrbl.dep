@@ -1,1 +1,0 @@
-("5.3" ("d07e0b94d040163f3f7c629b54378dc594cb7ea6" . "766dd400dbfca15cda222cd80e5af9cc6c99c679") (collects #"scribble" #"doclang.rkt") (collects #"net" #"base64.rkt") (collects #"net" #"base64-unit.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"net" #"base64-sig.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

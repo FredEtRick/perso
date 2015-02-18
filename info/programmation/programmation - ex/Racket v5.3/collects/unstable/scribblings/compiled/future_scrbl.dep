@@ -1,1 +1,0 @@
-("5.3" ("0992860ce6be974680a1e7cbb2df1634bbff8a66" . "5c61c6c59e21e57fbc7105745a45f38ee3a59b56") (collects #"racket" #"future.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"racket" #"base.rkt") (collects #"unstable" #"future.rkt") (collects #"unstable" #"scribblings" #"utils.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

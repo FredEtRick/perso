@@ -1,1 +1,0 @@
-("5.3" ("920c70dbdb4b2c823fe57462decea5f8122c9fb6" . "a65d347212bffd1e2ce4ee621604cefe6b844f8e") (collects #"racket" #"draw" #"unsafe" #"brush.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"eval.rkt") (collects #"scribblings" #"draw" #"common.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

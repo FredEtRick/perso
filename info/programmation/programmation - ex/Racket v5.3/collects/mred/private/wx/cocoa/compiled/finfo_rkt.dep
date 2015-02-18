@@ -1,1 +1,0 @@
-("5.3" ("fe7582326ccfd39ac07da1b92ce8e3196a7a258c" . "adbf6e50fa4950231b15bedf7a1c57db611e015c") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"mred" #"private" #"wx" #"cocoa" #"utils.rkt") (collects #"racket" #"base.rkt") (collects #"mred" #"private" #"wx" #"cocoa" #"types.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

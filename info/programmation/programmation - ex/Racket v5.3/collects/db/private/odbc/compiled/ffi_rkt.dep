@@ -1,1 +1,0 @@
-("5.3" ("abffd024714ba6b172967d88b62453e3eacf5e03" . "c5de3da165ec77399e325429f417f2a7902a4826") (collects #"ffi" #"unsafe" #"define.rkt") (collects #"racket" #"base.rkt") (collects #"db" #"private" #"odbc" #"ffi-constants.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

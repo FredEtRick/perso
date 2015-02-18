@@ -1,1 +1,0 @@
-("5.3" ("a964640b21c2cc456650730324cb079dd5a4b934" . "623fbb9cf39556343e60f852dc96b83a5f5027a4") (collects #"net" #"url.rkt") (collects #"scheme" #"promise.rkt") (collects #"setup" #"xref.rkt") (collects #"scheme" #"base.rkt") (collects #"net" #"sendurl.rkt") (collects #"scribble" #"xref.rkt") (collects #"scribble" #"basic.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

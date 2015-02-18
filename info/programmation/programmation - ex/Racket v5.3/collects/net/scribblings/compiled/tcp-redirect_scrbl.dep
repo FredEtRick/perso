@@ -1,1 +1,0 @@
-("5.3" ("c1a6ffb2820cee3c106336b18a91f23313985bd5" . "7c72248c92669970788b9462ac75e29e00c87adb") (collects #"net" #"tcp-sig.rkt") (collects #"net" #"tcp-redirect.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

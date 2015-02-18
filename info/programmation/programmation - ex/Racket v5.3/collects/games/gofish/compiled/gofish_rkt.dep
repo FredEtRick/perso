@@ -1,1 +1,0 @@
-("5.3" ("baf3a05380dc2b8ec3ca9435506594d53a51f678" . "453c47ec4e4490d7155d5d2e0f98b59075e62387") (collects #"mred" #"main.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"games" #"cards.rkt") (collects #"mzlib" #"unit.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("9d104f782d3e9d956b5ef56a9d20e251333d84f2" . "a81e397699e2f03e33793b0f2365eb2eab2eadaa") (collects #"racket" #"private" #"serialize.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"struct.rkt"))

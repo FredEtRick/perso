@@ -1,1 +1,0 @@
-("5.3" ("37c8eed027d9f1f67939d120f9c2ccb6240e751a" . "867ad2218df556c53bff0f882170027702a04366") (collects #"racket" #"base.rkt") (collects #"file" #"gif.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

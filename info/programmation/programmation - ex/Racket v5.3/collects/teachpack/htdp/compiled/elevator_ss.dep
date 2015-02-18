@@ -1,1 +1,0 @@
-("5.3" ("0fb073a298eb442301bcbc6ddb88ce721529b8d2" . "9d3c2eb636e6c29bb88cbda81e1b66e0cef23bdc") (collects #"htdp" #"elevator.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

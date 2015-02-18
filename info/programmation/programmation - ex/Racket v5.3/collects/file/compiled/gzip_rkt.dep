@@ -1,1 +1,0 @@
-("5.3" ("541d8557631d0db1d06ff91514b4b85192b3a132" . "2caca7f98afeb92b105b2a3c6c9e343f93741374") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"deflate.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

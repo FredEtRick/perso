@@ -1,1 +1,0 @@
-("5.3" ("d984f0c932de926e9661ec9df1bc74913b9902e5" . "b9e696fc53dd9e89d5d8df7d9b659b2c2edcbbd0") (collects #"racket" #"base.rkt") (collects #"algol60" #"runtime.rkt") (collects #"algol60" #"prims.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

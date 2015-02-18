@@ -1,1 +1,0 @@
-("5.3" ("ecd9742ae481ab1ac6879bea71c944d5837bede8" . "bae3215b0bb20b34705ec98f62b91d8e3ace39b5") (collects #"embedded-gui" #"embedded-gui.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

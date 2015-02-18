@@ -1,1 +1,0 @@
-("5.3" ("be4ef8cb724c888c2668004dfe1400521cf91731" . "a79641c372e2982934cd787ee10c2603d7a76ade") (collects #"racket" #"base.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"scribble" #"decode.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

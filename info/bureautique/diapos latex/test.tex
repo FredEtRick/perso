@@ -1,0 +1,46 @@
+\documentclass{beamer}
+
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+
+\usetheme{Warsaw}
+
+\begin{document}
+	
+	\begin{frame}[label=nomLabel]
+	\frametitle{label}
+	\framesubtitle{nomLabel}
+	Ceci est un test.
+	\end{frame}
+	
+	\begin{frame}[fragile]
+	\frametitle{fragile}
+	\framesubtitle{pour afficher codes}
+	\begin{verbatim}
+	#include<stdiolib.h>
+	int main()
+	{
+		
+	}
+	\end{verbatim}
+	\begin{center}
+	tohisioht etst
+	\end{center}
+	\end{frame}
+	
+	\begin{frame}
+	\frametitle{semi verbatim}
+	\framesubtitle{peut écrire codes mais peut aussi exécuter commandes latex}
+	\begin{semiverbatim}
+	eteye
+	\end{semiverbatim}
+	\end{frame}
+	
+	\begin{frame}[plain]
+	\frametitle{plain}
+	\framesubtitle{peut quand même avoir en tête}
+	page vide
+	\end{frame}
+	
+\end{document}

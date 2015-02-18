@@ -1,1 +1,0 @@
-("5.3" ("d6c35e2843bbfb7874d1f0834487680253c59c04" . "129a2db2d0e406141c8fe97eadfe4cd344c24082") (collects #"mzlib" #"scribblings" #"common.rkt") (collects #"mzlib" #"struct.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"contract.rkt") (collects #"scribble" #"eval.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

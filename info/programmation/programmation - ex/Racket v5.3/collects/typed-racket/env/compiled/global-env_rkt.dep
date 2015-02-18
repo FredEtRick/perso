@@ -1,1 +1,0 @@
-("5.3" ("95ae371bce0f8a94ec5fbf6ce185187ac5dda669" . "c4b1c57b062a99b631a909bac80dbeb961fa44a8") (collects #"typed-racket" #"types" #"tc-error.rkt") (collects #"racket" #"base.rkt") (collects #"unstable" #"lazy-require.rkt") (collects #"syntax" #"id-table.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt") (ext collects #"typed-racket" #"rep" #"type-rep.rkt"))

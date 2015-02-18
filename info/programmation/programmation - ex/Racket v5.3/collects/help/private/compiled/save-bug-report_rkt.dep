@@ -1,1 +1,0 @@
-("5.3" ("f943dba1a3ed85221ee690c2bbecab6dc403e78c" . "6b16a2152db47d57228dfd07a75865fa9ba452c2") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"framework" #"preferences.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"serialize.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

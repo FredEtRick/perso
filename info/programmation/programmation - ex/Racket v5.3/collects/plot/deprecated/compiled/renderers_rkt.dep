@@ -1,1 +1,0 @@
-("5.3" ("452618f12283adfddeadc745f299302944dc14b7" . "d8cb13fa1e70ac480e51df580413d108e09bbbdf") (collects #"plot" #"utils.rkt") (collects #"racket" #"base.rkt") (collects #"plot" #"plot2d" #"contour.rkt") (collects #"plot" #"plot3d" #"surface.rkt") (collects #"plot" #"plot2d" #"line.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

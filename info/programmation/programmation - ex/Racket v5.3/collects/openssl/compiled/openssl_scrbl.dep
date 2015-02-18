@@ -1,1 +1,0 @@
-("5.3" ("6418fa3fdd1e31f69d5c75a9b1867f1e825e95e8" . "fae3ceb42ce6ef7d77bc826dde4b040673cce2e5") (collects #"openssl" #"sha1.rkt") (collects #"scribble" #"bnf.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"scheme" #"main.rkt") (collects #"openssl" #"main.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("1dbbf5bf082e127671b4e085fb17640aed45c7d6" . "7d2d85fbe542adc24fc9eb4e956a18a6de3db232") (collects #"mzlib" #"class.rkt") (collects #"racket" #"snip" #"private" #"style.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mred" #"private" #"kernel.rkt") (collects #"mred" #"private" #"lock.rkt"))

@@ -1,0 +1,12 @@
+\frametitle{fragile}
+\framesubtitle{pour afficher codes}
+\begin{verbatim}
+#include<stdiolib.h>
+int main()
+{
+
+}
+\end{verbatim}
+\begin{center}
+tohisioht etst
+\end{center}

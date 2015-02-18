@@ -1,1 +1,0 @@
-("5.3" ("b93d0efd79e0800114563925d7a8a59c6a14af52" . "64e2447ffeec77a68614e5a8ba7f473c22aabfa7") (collects #"framework" #"main.rkt") (collects #"racket" #"gui.rkt") (collects #"slideshow" #"pict.rkt") (collects #"future-visualizer" #"private" #"display.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))

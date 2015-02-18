@@ -1,1 +1,0 @@
-("5.3" ("302b1d794ff7ce39d285da486acf1d06f6f63e5d" . "c0318c42553d2fb46eede80de0cd71be93c4531d") (collects #"graphics" #"scribblings" #"traditional-turtles.scrbl") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"graphics" #"scribblings" #"value-turtles.scrbl") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

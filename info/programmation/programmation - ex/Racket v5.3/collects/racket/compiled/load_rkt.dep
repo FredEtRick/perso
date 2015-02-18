@@ -1,1 +1,0 @@
-("5.3" ("740af38f36ab6fb69519625b003069ba484b5ead" . "dbacc767db678394783c3cb21ad3f968803c6496") (collects #"syntax" #"strip-context.rkt") (collects #"scheme" #"main.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("4f4d101b30d4f1f407ebc9cec27b3421e39897da" . "61e879741f541e5e35fa2fa8f5d705f4db3373c3") (collects #"racket" #"base.rkt") (collects #"file" #"gunzip.rkt") (collects #"net" #"base64.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("6b0d2ff6610397090a84d07842f9b0e0178f5c41" . "df578e0b109136874515a75681d76cf454a15a89") (collects #"mzlib" #"contract.rkt") (collects #"mzlib" #"list.rkt") (collects #"games" #"parcheesi" #"board.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

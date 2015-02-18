@@ -1,1 +1,0 @@
-("5.3" ("98f4ec730263a5c55a32160d4f135804ed63a1bb" . "3a6c980a95d8f78b7b13efeca4f1f44c78979e1f") (collects #"graphics" #"turtles.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

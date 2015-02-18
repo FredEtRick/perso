@@ -1,1 +1,0 @@
-("5.3" ("f2a39d736fb8f81b302a17e3b4ed04e19258cb96" . "d37392c0534fb2e422240be5ffdce6186e050862") (collects #"frtime" #"frp-snip.rkt") (collects #"frtime" #"frlibs" #"etc.rkt") (collects #"frtime" #"lang-utils.rkt") (collects #"frtime" #"core" #"frp.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"lang-ext.rkt") (collects #"frtime" #"frlibs" #"list.rkt"))

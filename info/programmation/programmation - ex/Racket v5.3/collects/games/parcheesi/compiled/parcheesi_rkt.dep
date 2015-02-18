@@ -1,1 +1,0 @@
-("5.3" ("e893e7595b204d11670cf17602276a9752d813fe" . "26be5e8b66aa5b96ec8c8981a156e0f67e527366") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"games" #"parcheesi" #"admin-gui.rkt") (collects #"mzlib" #"unit.rkt"))

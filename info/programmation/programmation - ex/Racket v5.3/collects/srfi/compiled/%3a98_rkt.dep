@@ -1,1 +1,0 @@
-("5.3" ("9979181a7e2da6a249d55787f19e10bd735219c4" . "f1057167b101f6ce53f062858b2e525660a44ef0") (collects #"scheme" #"mpair.rkt") (collects #"srfi" #"98.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("9baa06c7d81fa0328fc77c7e52bbced4f4f0bea0" . "19c762259586c924ddbdfcd1edf03fa67c57cea4") (collects #"racket" #"base.rkt") (collects #"launcher" #"main.rkt") (collects #"compiler" #"embed.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

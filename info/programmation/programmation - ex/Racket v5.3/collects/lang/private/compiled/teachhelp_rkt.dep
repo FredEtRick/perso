@@ -1,1 +1,0 @@
-("5.3" ("2688df0afa2d64dd7795ff6938d6d2b25ccdaa5d" . "333a6fa948c1dc41bf0ad2345bb2febf09782dd6") (collects #"racket" #"base.rkt") (collects #"lang" #"private" #"firstorder.rkt") (collects #"stepper" #"private" #"syntax-property.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"lang" #"private" #"rewrite-error-message.rkt"))

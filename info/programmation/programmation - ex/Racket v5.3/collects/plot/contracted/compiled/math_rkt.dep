@@ -1,1 +1,0 @@
-("5.3" ("7cfec0662b3cd1da3466b771b5e5d3f0da9d7a89" . "725eacca47098a45f6d4a38afc450d4b58f62c6d") (collects #"racket" #"contract.rkt") (collects #"racket" #"base.rkt") (collects #"plot" #"common" #"math.rkt") (collects #"unstable" #"latent-contract.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

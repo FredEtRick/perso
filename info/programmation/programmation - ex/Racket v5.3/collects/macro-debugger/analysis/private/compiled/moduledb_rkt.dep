@@ -1,1 +1,0 @@
-("5.3" ("f09c9e25457ceed1dbe33b859aa69b7e004a967a" . "2e68628140a063487692e4d5c200fafbda8b6945") (collects #"racket" #"base.rkt") (collects #"racket" #"match.rkt") (collects #"setup" #"path-to-relative.rkt") (collects #"syntax" #"modresolve.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("97f747868722584072b72afbfbfd612f0acdfc7d" . "94e8f7d6b131d2e9020c47bbc1c97c1e8eb40476") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"htdp" #"arrow-gui.rkt"))

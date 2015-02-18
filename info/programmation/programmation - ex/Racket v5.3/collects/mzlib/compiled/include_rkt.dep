@@ -1,1 +1,0 @@
-("5.3" ("c71a0c8767696e479ea8de2ef8b50197fe5d46f6" . "21e7f8cb4429cf4af451bbdd568d58524c92eaa7") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"cm-accomplice.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"stx.rkt") (collects #"mzlib" #"private" #"increader.rkt"))

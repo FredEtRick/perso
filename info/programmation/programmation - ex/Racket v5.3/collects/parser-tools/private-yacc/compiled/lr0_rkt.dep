@@ -1,1 +1,0 @@
-("5.3" ("4e9fb6fa90e2afc29381b125525c8a9df2d6badc" . "60079c8feb46c5c66be45094a8f51cabaf790102") (collects #"mzlib" #"list.rkt") (collects #"parser-tools" #"private-yacc" #"graph.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"parser-tools" #"private-yacc" #"grammar.rkt"))

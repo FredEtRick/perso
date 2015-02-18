@@ -1,1 +1,0 @@
-("5.3" ("ee8ed83032989ba1709b58e83edcab3656464c40" . "aba135a87bc31d72c061ab635c85b632a1021ac7") (collects #"setup" #"getinfo.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"racket" #"main.rkt") (collects #"setup" #"infotab.rkt") (collects #"string-constants" #"main.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

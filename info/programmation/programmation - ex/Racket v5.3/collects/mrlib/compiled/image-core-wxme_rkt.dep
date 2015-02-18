@@ -1,1 +1,0 @@
-("5.3" ("75012c4d8b93a6e3984e0c59f0dfec19a1d69cdf" . "19d2df6760d6cb95502f8afd5cc4da2654bd3b2c") (collects #"racket" #"base.rkt") (collects #"mrlib" #"private" #"image-core-snipclass.rkt") (collects #"racket" #"class.rkt") (collects #"mrlib" #"private" #"regmk.rkt") (collects #"wxme" #"main.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

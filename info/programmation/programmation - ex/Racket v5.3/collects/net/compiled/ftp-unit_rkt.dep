@@ -1,1 +1,0 @@
-("5.3" ("c6209504e0c5c08a6c7e7dda7f4eaf9799f8e16a" . "ea13c856ba787d3314290da5bb5019cb3ec572a8") (collects #"net" #"ftp.rkt") (collects #"racket" #"base.rkt") (collects #"net" #"ftp-sig.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

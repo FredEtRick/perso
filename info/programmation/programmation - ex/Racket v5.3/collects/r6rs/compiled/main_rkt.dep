@@ -1,1 +1,0 @@
-("5.3" ("c7e55979711362a2991ac98a4571b9da681efaaa" . "5f9a104c3753d425f28f32468e8b4ad72f7fbfcf") (collects #"r6rs" #"private" #"parse-ref.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"provide-transform.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"r6rs" #"private" #"no-set.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

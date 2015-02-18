@@ -1,1 +1,0 @@
-("5.3" ("25cde27b29ffc48271eeae88a165a46ad8f274bf" . "755da39332dfebf5b3feb897867e9a4dc67edee7") (collects #"racket" #"base.rkt") (collects #"syntax" #"strip-context.rkt") (collects #"racket" #"list.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

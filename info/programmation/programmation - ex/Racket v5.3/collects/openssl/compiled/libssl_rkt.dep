@@ -1,1 +1,0 @@
-("5.3" ("17192235c923534816add8bb73fbd31fbcb5ff85" . "47826186c27f4f447bb9dae0fbc85e2309000545") (collects #"racket" #"base.rkt") (collects #"openssl" #"libcrypto.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

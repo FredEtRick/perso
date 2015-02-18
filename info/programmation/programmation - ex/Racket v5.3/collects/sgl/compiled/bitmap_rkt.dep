@@ -1,1 +1,0 @@
-("5.3" ("711d89badc62e0c6bd000ba100618a4ee156b889" . "7d1a6665d53e6b99f1a6eb886f74c7d5f191eac8") (collects #"mzlib" #"kw.rkt") (collects #"sgl" #"gl-vectors.rkt") (collects #"mred" #"main.rkt") (collects #"sgl" #"gl.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"sgl" #"main.rkt"))

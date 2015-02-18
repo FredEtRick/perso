@@ -1,1 +1,0 @@
-("5.3" ("449ceda356cb65f401e57283220c62851d700743" . "c2cbd90a199d106f77b506417ffbcc5d26c17bb6") (collects #"htdp" #"hangman.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("a88b403e242250f951272ef1abc7c5f879a4be2c" . "55d7b69c6ed714b84ea8a30357933f0d4e30662a") (collects #"racket" #"base.rkt") (collects #"syntax" #"parse.rkt") (collects #"typed-racket" #"private" #"parse-classes.rkt") (collects #"typed-racket" #"base-env" #"colon.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

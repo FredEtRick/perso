@@ -1,1 +1,0 @@
-("5.3" ("0921324ceefefcba66886cc98295fc9c46d00d73" . "be8c47a6d179300d695d401e36aabc080b07aabe") (collects #"racket" #"base.rkt") (collects #"rackunit" #"private" #"hash-monad.rkt") (collects #"rackunit" #"private" #"base.rkt") (collects #"rackunit" #"private" #"monad.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

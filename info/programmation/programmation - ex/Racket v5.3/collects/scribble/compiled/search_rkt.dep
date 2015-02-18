@@ -1,1 +1,0 @@
-("5.3" ("5762f9bf7cb30347ff49cd530dec6a294dc8e99d" . "36ec708eb15c4533a2108f365310ce10fd404c37") (collects #"syntax" #"modcode.rkt") (collects #"racket" #"base.rkt") (collects #"scribble" #"basic.rkt") (collects #"scribble" #"struct.rkt"))

@@ -1,1 +1,0 @@
-("5.3" ("3b27bb68e29f1091324084683e4a54afd7169354" . "3753c1ab1f88567e69ae26c350d2c8fba8b04660") (collects #"launcher" #"launcher.rkt") (collects #"racket" #"base.rkt") (collects #"dynext" #"file.rkt") (collects #"racket" #"cmdline.rkt") (collects #"raco" #"command-name.rkt") (collects #"compiler" #"private" #"embed.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))
